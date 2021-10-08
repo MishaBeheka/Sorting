@@ -1,4 +1,4 @@
-package my.dev.com.algoritms;
+package my.dev.com.algoritms.search;
 
 public class BinarySearch {
     private static int operationCount = 0;

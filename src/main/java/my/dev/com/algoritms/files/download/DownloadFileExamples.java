@@ -28,9 +28,6 @@ public class DownloadFileExamples {
         downloadFileByFilesCopy(FILE_URL, PATH_TO_NIO_FILES_COPY_WAY_FILE);
         downloadFileByNIO(FILE_URL, PATH_TO_NIO_CHANNEL_WAY_FILE);
         downloadByApacheCommonsIO(FILE_URL, PATH_TO_COMMONS_IO_FILE);
-
-
-
     }
 
     // 1. Using Java IO
